@@ -1,6 +1,6 @@
 <div align="center"><img src="../assets/banner.png"></div>
 
-We are a small indie studio based on the **Canary Islands**, in Spain. Our goal is to create **short yet delightful experiences** that convey ideas or explore mechanics rarely pondered before.
+We are a small indie studio based in the **Canary Islands**, Spain. We aim to create **short yet delightful experiences** that convey ideas or explore mechanics rarely pondered before.
 > Reality is broken. Game designers can fix it.
 
 #### Our team
