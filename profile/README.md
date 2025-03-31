@@ -4,7 +4,7 @@ We are a small indie studio based in the **Canary Islands**, Spain. We aim to cr
 > Reality is broken. Game designers can fix it.
 
 #### Our team
-<p><img src="../assets/henrydb.png" height="32px" width="32px">&nbsp;<strong><a href="https://github.com/h3nry-d1az" target="_blank">Henry Díaz Bordón</a>:</strong>&nbsp;<span>Lead coder and designer.</span></p>
+<p><img src="../assets/henrydb.png" height="32px" width="32px">&nbsp;<strong><a href="https://github.com/h3nry-d1az" target="_blank">Henry</a>:</strong>&nbsp;<span>Lead coder and designer.</span></p>
 
 #### Open Source initiative
 We are utterly devoted to the Open Source movement, and thus we try to make most of our projects' code available for everyone, so you know what's going on behind the scenes. Stay tuned for more information on our new games and code releases.
